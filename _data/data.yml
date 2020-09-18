@@ -71,7 +71,7 @@ experiences:
           - Create chat messaging with Socket.io. This also includes typing and online status.
           - Live streaming using agora for Leher live.
           - Built Multiple mini features for the live session(eg: Polls, question round).
-          - implemented many analytics tool (eg: Branch.io, cleverTap).
+          - implemented many analytics tool (eg: Segment, cleverTap, Branch.io).
     - role: Android Developer
       time: 20/08/2018 - 4/04/2019
       company: Procol, Delhi
