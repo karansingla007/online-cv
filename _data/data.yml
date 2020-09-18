@@ -62,45 +62,44 @@ experiences:
       company: Leher.ai Pvt. Ltd, Bangalore
       details: |
         [Leher](https://play.google.com/store/apps/details?id=com.leher&hl=en_IN):
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Follow interesting people, make new friends across the world and join them in Live video discussions around things you care about.
+        
+        Worked on taking major responsibility for their android app.
+          - Built features following MVP pattern.
+          - Built full-screen video feed
+          - Rewritten whole app in Flutter for v4.0.+
+          - Create chat messaging with Socket.io. This also includes typing status and online status.
+          - Live streaming using agora for Leher live
+          - Built Multiple mini features for the live session(eg: Polls, question round)
+          - implemented many analytics tool (eg: Branch.io, cleverTap)
     - role: Android Developer
       time: 20/08/2018 - 4/04/2019
       company: Procol, Delhi
       details: |
         [Agribid](https://play.google.com/store/apps/details?id=spars.com.annajmandi&hl=en_IN):
-        is a digital procurement platform that helps companies digitize their buying processes to bring about transparency, traceability and cost savings. The platform brings together buyers and sellers on easy-to-use mobile to increase the speed of procurement from hours to minutes
+        Agribid is a digital procurement platform that helps companies digitize their buying processes to bring about transparency, traceability and cost savings. The platform brings together buyers and sellers on easy-to-use mobile to increase the speed of procurement from hours to minutes
           - Create chat messaging with Firebase Push Notification.
           - Built features following MVVM pattern.
           
-          i also worked on another project [Prologs](https://play.google.com/store/apps/details?id=com.procol.android_logistics&hl=en_IN). Features worked on:
-          - write whole app in Kotlin from scratch.
+          i also worked on another project [Prologs](https://play.google.com/store/apps/details?id=com.procol.android_logistics&hl=en_IN):
+          - Write whole app in Kotlin from scratch.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Flutter & Dart
-        level: 95%
+        level: 90%
 
       - name: Java
-        level: 90%
+        level: 85%
 
       - name: MVVM
         level: 85%
 
       - name: MVP
-        level: 80%
+        level: 75%
 
       - name: Socket Programming
-        level: 95%
+        level: 90%
 
