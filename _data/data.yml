@@ -68,10 +68,10 @@ experiences:
           - Built features following MVP pattern.
           - Built full-screen video feed
           - Rewritten whole app in Flutter for v4.0.+
-          - Create chat messaging with Socket.io. This also includes typing status and online status.
-          - Live streaming using agora for Leher live
-          - Built Multiple mini features for the live session(eg: Polls, question round)
-          - implemented many analytics tool (eg: Branch.io, cleverTap)
+          - Create chat messaging with Socket.io. This also includes typing and online status.
+          - Live streaming using agora for Leher live.
+          - Built Multiple mini features for the live session(eg: Polls, question round).
+          - implemented many analytics tool (eg: Branch.io, cleverTap).
     - role: Android Developer
       time: 20/08/2018 - 4/04/2019
       company: Procol, Delhi
