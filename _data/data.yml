@@ -94,6 +94,9 @@ skills:
       - name: Java
         level: 85%
 
+      - name: Kotlin
+        level: 70%
+        
       - name: MVVM
         level: 85%
 
