@@ -67,7 +67,7 @@ experiences:
         Worked on taking major responsibility for their android app.
           - Built features following MVP pattern.
           - Built full-screen video feed
-          - Rewritten whole app in Flutter for v4.0.+
+          - Rewritten whole app in Flutter BLOC pattern
           - Create chat messaging with Socket.io. This also includes typing and online status.
           - Live streaming using agora for Leher live.
           - Built Multiple mini features for the live session(eg: Polls, question round).
@@ -90,7 +90,10 @@ skills:
     toolset:
       - name: Flutter & Dart
         level: 90%
-
+        
+      - name: BLOC
+        level: 90%
+        
       - name: Java
         level: 85%
 
