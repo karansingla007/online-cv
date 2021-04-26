@@ -57,8 +57,19 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: Senior Software Developer
+      time: 1/02/2021 - Present
+      company: MusicMuni Labs Pvt. Ltd, Bangalore
+      details: |
+        [Riyaz]:
+        Learn and practice singing with precise, live feedback that guides learners optimally to overcome your mistakes
+       
+        Worked on taking major responsibility for their android and IOS app.
+          - Written whole app in Flutter BLOC pattern.
+          - Create chat messaging with FireStore. This also includes typing and online status.
+          - Lead the mobile team.
     - role: Software Developer
-      time: 5/04/2019 - Present
+      time: 5/04/2019 - 1/02/2021
       company: Leher.ai Pvt. Ltd, Bangalore
       details: |
         [Leher](https://play.google.com/store/apps/details?id=com.leher&hl=en_IN):
