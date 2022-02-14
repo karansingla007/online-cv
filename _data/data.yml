@@ -57,8 +57,18 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: Product Engineer
+      time: 1/11/2021 - Present
+      company: Qoohoo Pvt. Ltd, Bangalore
+      details: |
+        [Qoohoo](https://play.google.com/store/apps/details?id=com.qoohoo_app):
+        qoohoo is the easiest way to launch your communities in a very quick, simple and interactive way in various categories.
+       
+        Worked on taking major responsibility for their android and IOS app.
+          - Built features following Provider Pattern.
+          - implemented many analytics tool (eg: Segment, cleverTap, Branch.io).
     - role: Senior Software Developer
-      time: 1/02/2021 - Present
+      time: 1/02/2021 - 31/10/2021
       company: MusicMuni Labs Pvt. Ltd, Bangalore
       details: |
         [Riyaz]():
