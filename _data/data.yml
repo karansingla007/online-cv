@@ -56,6 +56,13 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+Projects:
+    - role: LinkedUp
+      details: |
+        [LinkedUp](https://github.com/singlakaran/linkedUp_node_js):
+        Linkedup is a live streaming app with coll features.
+        
+        Wokred on full mobile side and backend side.
 experiences:
     - role: Product Engineer
       time: 1/11/2021 - Present
@@ -115,8 +122,8 @@ skills:
       - name: BLOC
         level: 90%
         
-      - name: Java
-        level: 85%
+      - name: Node.Js
+        level: 55%
 
       - name: Kotlin
         level: 70%
