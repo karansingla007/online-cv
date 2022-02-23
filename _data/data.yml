@@ -58,6 +58,8 @@ education:
           - Bullet point
 Projects:
     - role: LinkedUp
+      time:
+      company:
       details: |
         [LinkedUp](https://github.com/singlakaran/linkedUp_node_js):
         Linkedup is a live streaming app with coll features.
