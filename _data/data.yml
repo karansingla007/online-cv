@@ -68,14 +68,27 @@ Projects:
 experiences:
     - role: Product Engineer
       time: 1/11/2021 - Present
+      company: Jify.co Pvt. Ltd, Bangalore
+      details: |
+        [Jify](https://play.google.com/store/apps/details?id=com.jify.mobile):
+        Jify is one of the largest financial wellness platforms for the employed workforce in India. We are a pioneer in on-demand salary i.e allow employees to access their earned salary instantly and before the month end pay-check. With Jify
+       
+        Worked on taking major responsibility for their android and IOS app.
+          - Revamped whole app from scratch.
+          - Implemented analytics tool, crashelytics tools.
+          - Help other employees to solve any bug or implement feature.
+    - role: Product Engineer
+      time: 1/11/2021 - Present
       company: Qoohoo Pvt. Ltd, Bangalore
       details: |
         [Qoohoo](https://play.google.com/store/apps/details?id=com.qoohoo_app):
         qoohoo is the easiest way to launch your communities in a very quick, simple and interactive way in various categories.
        
-        Worked on taking major responsibility for their android and IOS app.
+        Worked on taking responsibility for their android and IOS app.
+          - Learn provider pattern with riverpod.
           - Built features following Provider Pattern.
-          - implemented many analytics tool (eg: Segment, cleverTap, Branch.io).
+          - Worked with core team and i was the part of that.
+          - Implemented many analytics tool (eg: Segment, cleverTap, Branch.io).
     - role: Senior Software Developer
       time: 1/02/2021 - 31/10/2021
       company: MusicMuni Labs Pvt. Ltd, Bangalore
@@ -85,6 +98,7 @@ experiences:
        
         Worked on taking major responsibility for their android and IOS app.
           - Written whole app in Flutter BLOC pattern.
+          - Major decision for architect of the app.
           - Create chat messaging with FireStore. This also includes typing and online status.
           - Lead the mobile team.
     - role: Software Developer
