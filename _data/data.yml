@@ -26,11 +26,11 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Hindi
-        level: Native
-
       - idiom: English
         level: Professional
+
+      - idiom: Hindi
+        level: Native
 
     interests:
       - item: Photography
@@ -45,7 +45,18 @@ career-profile:
     summary: |
       Experienced Android app developer with stellar communication skills. Conceptualizing app solutions with the latest technology, design theory, and a large dose of creativity. Skilled in Android Development, Java, Retrofit, MVC,MVVM pattern. **currently doing fun with flutter 😎**
 education:
-    - degree: B.Tech in Computer Science & Engineering
+    - degree: Master of Applied Computer Science
+      university: Concordia University
+      time: 2022 - 2024
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+     - degree: B.Tech in Computer Science & Engineering
       university: Chitkara University
       time: 2015 - 2019
       details: |
