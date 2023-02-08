@@ -71,51 +71,37 @@ experiences:
       company: Jify.co Pvt. Ltd, Bangalore
       details: |
         [Jify](https://play.google.com/store/apps/details?id=com.jify.mobile):
-        Jify is one of the largest financial wellness platforms for the employed workforce in India. We are a pioneer in on-demand salary i.e allow employees to access their earned salary instantly and before the month end pay-check. With Jify
+        Jify is a fintech startup, provides loans based on the users salary.
        
         Worked on taking major responsibility for their android and IOS app.
-          - Revamped whole app from scratch.
-          - Implemented analytics tool, crashelytics tools.
-          - Help other employees to solve any bug or implement feature.
+          - Deployed the backend system to AWS with load balancers with multiple replicas.
+          - Setup CI/CD to build Android/IOS applications using CodeMagic.
+          - Worked on the Restful API with Node.js, MongoDB & Express.
+          - Developed Android/iOS mobile application features with the Flutter framework in Bloc pattern.
     - role: Product Engineer
-      time: 1/11/2021 - 1/05/2022
+      time: 1/11/2021 - 1/04/2022
       company: Qoohoo Pvt. Ltd, Bangalore
       details: |
         [Qoohoo](https://play.google.com/store/apps/details?id=com.qoohoo_app):
-        qoohoo is the easiest way to launch your communities in a very quick, simple and interactive way in various categories.
+        Qoohoo is the platform which provides to launch community in quick and interactive way.
        
         Worked on taking responsibility for their android and IOS app.
-          - Learn provider pattern with riverpod.
-          - Built features following Provider Pattern.
-          - Worked with core team and i was the part of that.
+          - Developed the complete Mobile application in flutter with Riverpod.
+          - Integrated Push Notification to Android/iOS application with Firebase service.
+          - Design database schema and deployed the Node.js API to the AWS cloud platform.
           - Implemented many analytics tool (eg: Segment, cleverTap, Branch.io).
-    - role: Senior Software Developer
-      time: 1/02/2021 - 31/10/2021
-      company: MusicMuni Labs Pvt. Ltd, Bangalore
-      details: |
-        [Riyaz]():
-        Learn and practice singing with precise, live feedback that guides learners optimally to overcome your mistakes
-       
-        Worked on taking major responsibility for their android and IOS app.
-          - Written whole app in Flutter BLOC pattern.
-          - Major decision for architect of the app.
-          - Create chat messaging with FireStore. This also includes typing and online status.
-          - Lead the mobile team.
     - role: Software Developer
-      time: 5/04/2019 - 1/02/2021
+      time: 5/04/2019 - 1/11/2021
       company: Leher.ai Pvt. Ltd, Bangalore
       details: |
         [Leher](https://play.google.com/store/apps/details?id=com.leher&hl=en_IN):
-        Follow interesting people, make new friends across the world and join them in Live video discussions around things you care about.
+        Make new friends across the world and join in Live video discussions around things you know.
         
         Worked on taking major responsibility for their android app.
-          - Built features following MVP pattern.
-          - Built full-screen video feed
-          - Rewritten whole app in Flutter BLOC pattern
-          - Create chat messaging with Socket.io. This also includes typing and online status.
-          - Live streaming using agora for Leher live.
-          - Built Multiple mini features for the live session(eg: Polls, question round).
-          - implemented many analytics tool (eg: Segment, cleverTap, Branch.io).
+          - Completely re-architected base code to utilize modern Flutter features including reworking UI to utilize material design concept.
+          - Developed Live streaming by using Agora and sharing streams to another social platform with a different layouts.
+          - Implemented many analytics tools(CleverTap, Sentry.io, Segment) to understand the behavior of the users.
+          - Used tools for profiling, logging, tracing, tracking to optimise the app.
     - role: Android Developer
       time: 20/08/2018 - 4/04/2019
       company: Procol, Delhi
@@ -139,7 +125,7 @@ skills:
         level: 90%
         
       - name: Node.Js
-        level: 55%
+        level: 75%
 
       - name: Kotlin
         level: 70%
