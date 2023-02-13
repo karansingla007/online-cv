@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Karan Singla
-    tagline: Full-stack Mobile App Developer
+    tagline: Android App Developer
     avatar: profile.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Android app developer with stellar communication skills. Conceptualizing app solutions with the latest technology, design theory, and a large dose of creativity. Skilled in Android Development, Java, Retrofit, MVC,MVVM pattern. **currently doing fun with flutter 😎**
+      A motivated and enthusiastic Android developer with a passion for creating engaging, user-friendly mobile applications. Experienced in Kotlin, Dagger, and MVVM architecture. Excited to bring expertise and drive to new challenges and opportunities. Seeking an internship opportunity to enhance my skills and gain real-world experience in the development of innovative mobile applications. **currently doing fun with Flutter.**
 education:
     - degree: Master of Applied Computer Science
       university: Concordia University
@@ -77,18 +77,17 @@ Projects:
         
         Wokred on full mobile side and backend side.
 experiences:
-    - role: Fullstack Mobile App Developer
+    - role: Mobile Application Developer
       time: 11/04/2022 - 1/2/2023
       company: Jify.co Pvt. Ltd, Bangalore
       details: |
         [Jify](https://play.google.com/store/apps/details?id=com.jify.mobile):
-        Jify is a fintech startup, provides loans based on the users salary.
+        As a fintech startup, Jify provides loans based on the salary of its users.
        
         Worked on taking major responsibility for their android and IOS app.
-          - Deployed the backend system to AWS with load balancers with multiple replicas.
-          - Setup CI/CD to build Android/IOS applications using CodeMagic.
-          - Worked on the Restful API with Node.js, MongoDB & Express.
-          - Developed Android/iOS mobile application features with the Flutter framework in Bloc pattern.
+          - Setup CI/CD to build Android applications using CodeMagic and share APK to slack channel.
+          - Developed the Virtual Credit Card functionality to promote card less.
+          - **Technology**:- Kotlin, retrofit2, Picasso, Dependency Injections(Dagger).
     - role: Product Engineer
       time: 1/11/2021 - 1/04/2022
       company: Qoohoo Pvt. Ltd, Bangalore
@@ -97,56 +96,45 @@ experiences:
         Qoohoo is the platform which provides to launch community in quick and interactive way.
        
         Worked on taking responsibility for their android and IOS app.
-          - Developed the complete Mobile application in flutter with Riverpod.
+          - Developed the complete Mobile application in flutter with BLOC architecture.
           - Integrated Push Notification to Android/iOS application with Firebase service.
-          - Design database schema and deployed the Node.js API to the AWS cloud platform.
-          - Implemented many analytics tool (eg: Segment, cleverTap, Branch.io).
+          - Developed a chat application using Socket.IO that allows users to share any type of file as well as record audio and share it with others.
+          - Technology:- Flutter, Dart, Socket.IO, Firebase.
     - role: Software Developer
       time: 5/04/2019 - 1/11/2021
       company: Leher.ai Pvt. Ltd, Bangalore
       details: |
         [Leher](https://play.google.com/store/apps/details?id=com.leher&hl=en_IN):
-        Make new friends across the world and join in Live video discussions around things you know.
+        Qoohoo is the platform which provides to launch community in quick and interactive way.
         
-        Worked on taking major responsibility for their android app.
-          - Completely re-architected base code to utilize modern Flutter features including reworking UI to utilize material design concept.
-          - Developed Live streaming by using Agora and sharing streams to another social platform with a different layouts.
+        Make new friends across the world and join in Live video discussions around things you know.
+          - Implemented chat messaging application using Firebase to simplify communication between users.
+          - Implemented uploading large videos by multiPart and showing the percentage of uploading.
+          - Implemented Realm to store all contact information and send it to the server in chunks.
+          - Migrate the Android Native app to flutter to overcome the cost and time.
+          - Developed Live streaming by using Agora and share stream to the other social platform with a different layout.
           - Implemented many analytics tools(CleverTap, Sentry.io, Segment) to understand the behavior of the users.
-          - Used tools for profiling, logging, tracing, tracking to optimise the app.
-    - role: Android Developer
-      time: 20/08/2018 - 4/04/2019
-      company: Procol, Delhi
-      details: |
-        [Agribid](https://play.google.com/store/apps/details?id=spars.com.annajmandi&hl=en_IN):
-        Agribid is a digital procurement platform that helps companies digitize their buying processes to bring about transparency, traceability and cost savings. The platform brings together buyers and sellers on easy-to-use mobile to increase the speed of procurement from hours to minutes
-          - Create chat messaging with Firebase Push Notification.
-          - Built features following MVVM pattern.
-          
-          i also worked on another project [Prologs](https://play.google.com/store/apps/details?id=com.procol.android_logistics&hl=en_IN):
-          - Write whole app in Kotlin from scratch.
+          - **Technology**:- Java, Flutter, Dart, MVC, BLOC, Retrofit, Dagger, RXJava.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Flutter & Dart
-        level: 90%
-        
-      - name: BLOC
-        level: 90%
-        
-      - name: Node.Js
-        level: 75%
-
-      - name: Kotlin
-        level: 70%
+      - name: Android(Java/Kotlin)
+        level: 80%
         
       - name: MVVM
         level: 85%
-
-      - name: MVP
+        
+      - name: Dagger
         level: 75%
 
+      - name: Flutter
+        level: 80%
+        
+      - name: BLOC Pattern
+        level: 80%
+
       - name: Socket Programming
-        level: 90%
+        level: 80%
 
